@@ -1,0 +1,4 @@
+#Thu Jun 23 08:06:49 BRT 2022
+base.0=/home/victormuller/StudioProjects/organizador_de_email/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,21 @@
+{
+  "emails": [
+    {
+      "from": "noreply@steampowered.com",
+      "subject": "Dead Cells from your Steam wishlist is now on sale!",
+      "body": "1 GAME YOU'VE WISHED FOR IS ON SALE!",
+      "labels": [
+        "ofertas"
+      ]
+    },
+    {
+      "from": "no-reply@ifood.com",
+      "subject": "Cupom",
+      "body": "Cupom para Pizza",
+      "labels": [
+        "spam",
+        "ofertas"
+      ]
+    }
+  ]
+}

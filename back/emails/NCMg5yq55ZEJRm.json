@@ -1,0 +1,9 @@
+{
+    "from": "no-reply@ifood.com",
+    "subject": "Cupom",
+    "body": "Cupom para Pizza",
+    "labels": [
+        "spam",
+        "ofertas"
+    ]
+}

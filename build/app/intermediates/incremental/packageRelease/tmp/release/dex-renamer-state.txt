@@ -1,0 +1,4 @@
+#Tue Jun 07 21:29:33 BRT 2022
+base.0=/home/victormuller/Projetos/StudioProjects/organizador_email/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

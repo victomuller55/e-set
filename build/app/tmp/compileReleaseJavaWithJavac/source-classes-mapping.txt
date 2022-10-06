@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/organizador_de_email/BuildConfig.java
+ com.example.organizador_de_email.BuildConfig
